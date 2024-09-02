@@ -58,10 +58,10 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![alt text](<Screenshot 2024-03-05 182031.png>)
-![alt text](<Screenshot 2024-03-05 182404.png>)
-![alt text](<Screenshot 2024-03-05 182438.png>)
-![alt text](<Screenshot 2024-03-05 182447.png>)
+![Screenshot 2024-03-05 182031](https://github.com/user-attachments/assets/22633521-64c7-4976-bc5d-b0d938d6f196)
+![Screenshot 2024-03-05 182404](https://github.com/user-attachments/assets/b102fd45-1217-45b6-a0c2-5cdce0444219)
+![Screenshot 2024-03-05 182438](https://github.com/user-attachments/assets/72903833-6fae-487f-8e84-768caf4bd342)
+![Screenshot 2024-09-01 221209](https://github.com/user-attachments/assets/9663f9a0-74a1-4b7c-901b-6ea418af50e2)
 
 
 ## Result:
